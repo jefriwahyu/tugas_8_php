@@ -1,6 +1,6 @@
 # Tugas 8 PHP
 
-Membuat <b>Membuat Belah Ketupat Dengan Perulangan.</b>
+Membuat <b>Belah Ketupat Dengan Perulangan.</b>
 
 <b>Output in browser : </b>
 
